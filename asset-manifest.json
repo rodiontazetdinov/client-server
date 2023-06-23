@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rodiontazetdinov.github.io/client-server/static/css/main.8fc9bde0.css",
-    "main.js": "/rodiontazetdinov.github.io/client-server/static/js/main.d3375b21.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/rodiontazetdinov.github.io/client-server/static/js/787.c4e7f8f9.chunk.js",
-    "index.html": "/rodiontazetdinov.github.io/client-server/index.html",
-    "main.8fc9bde0.css.map": "/rodiontazetdinov.github.io/client-server/static/css/main.8fc9bde0.css.map",
-    "main.d3375b21.js.map": "/rodiontazetdinov.github.io/client-server/static/js/main.d3375b21.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/rodiontazetdinov.github.io/client-server/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/client-server/static/css/main.8fc9bde0.css",
+    "main.js": "/client-server/static/js/main.1d686d5b.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/client-server/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/client-server/index.html",
+    "main.8fc9bde0.css.map": "/client-server/static/css/main.8fc9bde0.css.map",
+    "main.1d686d5b.js.map": "/client-server/static/js/main.1d686d5b.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/client-server/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fc9bde0.css",
-    "static/js/main.d3375b21.js"
+    "static/js/main.1d686d5b.js"
   ]
 }
